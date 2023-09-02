@@ -24,7 +24,7 @@ SECRET_KEY = 'ENV'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.pythonanywhere.com','127.0.0.1']
 
 # Application definition
 # If you want check more information about requests and queries (thanks to silk), remove # from 43 code line and 27 line
